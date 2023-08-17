@@ -3,7 +3,7 @@ SCQP is a first-order splitting method for convex quadratic programs. The QP sol
 
 For more information please see our publication:
 
-[arXiv (preprint)](https://github.com/ipo-lab/scqpth)
+[arXiv (preprint)](https://arxiv.org/abs/2308.08232)
 
 For experimental results please see [scqp_bench](https://github.com/ipo-lab/scqp_bench)
 
